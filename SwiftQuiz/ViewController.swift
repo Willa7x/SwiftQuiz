@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  SwiftQuiz
-//
-//  Created by William Alessandro Batista on 11/07/22.
-//
 
 import UIKit
 
